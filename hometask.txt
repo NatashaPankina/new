@@ -1,2 +1,12 @@
 Получившаяся ветка master и удаленная ветка demo ничем не отличаются.
-
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge branch 'boots' into boots_buttons
+Merge branch 'buttons' into boots_buttons
+Merge branch 'hat'
+Merge branch 'boots_buttons'
+Commit
